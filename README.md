@@ -24,3 +24,6 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNMelo&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
+
+
+![snake gif](https://github.com/CaioNMelo/CaioNMelo/blob/output/github-contribution-grid-snake.svg)
