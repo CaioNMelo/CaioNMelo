@@ -1,27 +1,37 @@
-## Perfil do Caio Melo'-' !
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CaioNMelo&color=blue" alt="Profile views" /> </p>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1075089151797497906/1082014014550331412/casimiro-casimito.gif">
- <p> <p>
-</div>
- 
-<div> 
-  <a href="https://www.instagram.com/caiomelo8580/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="! Caiomelo9#2093" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cnnmelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+<div align="center">
+  <img src="./assets/hero.svg" alt="Caio Melo — ideias em código, projetos em movimento" width="100%" />
+  <br /><br />
+  <a href="https://github.com/CaioNMelo?tab=repositories"><strong>⌁ Explorar projetos</strong></a> &nbsp;·&nbsp; <a href="mailto:cnnmelo@gmail.com"><strong>✉ Entrar em contato</strong></a>
 </div>
 
-<div align="left">
-  <a href="https://github.com/CaioNMelo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioNMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNMelo&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+<br />
+
+## 👋 Sobre mim
+
+Sou **Caio Melo**. Gosto de transformar ideias em projetos digitais e explorar diferentes formas de construir para **web e mobile**. Aqui você encontra interfaces, aplicativos e experimentos que mostram minha evolução como desenvolvedor.
+
+## ⚡ Tecnologias
+
+<div align="center">
+  <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Flutter</code> &nbsp; <code>Dart</code> &nbsp; <code>Python</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code>
 </div>
 
+## 🚀 Projetos em destaque
+
+| Projeto | O que você encontra | Stack |
+| :--- | :--- | :--- |
+| [**BookShelf**](https://github.com/CaioNMelo/BookShelf) | App de notícias com busca, filtros e leitura salva no dispositivo. | Flutter · Dart · SQLite |
+| [**Digital Pet Badge**](https://github.com/CaioNMelo/digital-pet-badge) | Projeto de interface web. | React · TypeScript · Tailwind CSS |
+| [**Academia Vital Ativa**](https://github.com/CaioNMelo/academiafinal) | Site para academia. | HTML · CSS |
+
+## 🌐 Vamos conectar
+
+<div align="center">
+  <a href="mailto:cnnmelo@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/caiomelo8580/">Instagram</a> &nbsp;·&nbsp; <a href="https://github.com/CaioNMelo">GitHub</a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Construindo, aprendendo e compartilhando — um commit de cada vez.</sub>
+</div>
